@@ -1,7 +1,7 @@
 ---
 layout: category_index
 title: Consultancy
-permalink: /writing/
+permalink: /Consultancy/
 category_name: writing
 
 ---
