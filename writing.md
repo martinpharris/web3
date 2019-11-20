@@ -2,7 +2,7 @@
 layout: category_index
 title: Consultancy
 permalink: /Consultancy/
-category_name: writing
+category_name: Contact
 
 ---
 <!--
