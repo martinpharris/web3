@@ -11,6 +11,8 @@ O365 and Azure consultancy for large enterprise environments.
 This website is currently under re-development, please head back soon for a new look.
 ### Features:
 * O365 Consultancy
+* Azure Consultancy
+
 
 <!-- | Config setting | Thumbnail |
 | --- | --- |
